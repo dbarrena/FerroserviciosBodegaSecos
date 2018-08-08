@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ferroservicios Bodega Secos</string>
+    <string name="app_title">Ferroservicios Bodega Secos</string>
+
+    <!-- Login -->
+    <string name="ContrasenaLoginFieldPlaceholder">Contraseña</string>
+    <string name="UsuarioLoginFieldPlaceholder">Usuario</string>
+    <string name="LoginButtonText">Ingresar</string>
+    <string name="open_drawer">drawer opened</string>
+    <string name="close_drawer">drawer_closed</string>
+    <string name="drawer_item_entrada">Entrada</string>
+    <string name="drawer_item_salida">Salida</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="list_item_id_tag">ID:</string>
+    <string name="list_item_producto_tag">Producto:</string>
+    <string name="list_item_placas_tag">Placas:</string>
+    <string name="list_item_cliente_tag">Cliente:</string>
+    <string name="positive">Aceptar</string>
+    <string name="negative">Cancelar</string>
+</resources>
